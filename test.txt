@@ -1,0 +1,10 @@
+ Volume in drive F has no label.
+ Volume Serial Number is 8026-FF28
+
+ Directory of F:\Bhavesh\STAD Solution\Test Project
+
+28-02-2025  22:32    <DIR>          .
+28-02-2025  22:32    <DIR>          ..
+28-02-2025  22:32                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  319,204,507,648 bytes free
